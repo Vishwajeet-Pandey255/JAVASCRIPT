@@ -33,9 +33,9 @@
 // console.log(c);
 
 
- let firstName='Vishwajeet'
- let lastName='Pandey'
- console.log('srk\nkhan')
+//  let firstName='Vishwajeet'
+//  let lastName='Pandey'
+//  console.log('srk\nkhan')
 // console.log(`My firstName is: ${firstName}  My LastName is:  ${lastName}`);
 
 
